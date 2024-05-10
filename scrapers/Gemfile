@@ -1,0 +1,9 @@
+gem 'open-uri'
+
+gem 'nokogiri'
+
+gem 'csv'
+
+gem 'httparty'
+
+gem 'selenium-webdriver'
